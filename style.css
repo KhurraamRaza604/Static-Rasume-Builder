@@ -1,0 +1,73 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    background-color: burlywood;
+
+}
+.heading{
+    color: #962800;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.mainn{
+    max-width: ;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    margin-bottom: 100px;
+    position: relative;
+
+
+}
+
+.personol{
+    color: #962800;
+    background-color: #a2cbad;
+    text-align: center;
+    padding: 15px;
+    font-size: x-large;
+}
+
+.forpic{
+    color: #962800;
+
+}
+
+input[type="file"]{
+    font-size: 16px;
+    padding: 10px;
+    width: 250px;
+    background-color: #a2cbad;
+    border-radius: 30px;
+    margin-top: 20px;
+}
+
+input[type="file"]::file.selector-button{
+    background-color: #a2cbad;
+    cursor: pointer;
+    font-size: large;
+    color: #fff;
+    border-color: #962800;
+    border-radius: 10px;
+
+}
+form{
+    margin: 40px;
+}
+
+input,textarea{
+    display: block;
+    margin-bottom: 10px;
+    width: 1000px;
+    padding: 8px;
+    font-size: 14px;
+    background-color: #a2cbad;
+    border-width: 3px;
+
+
+}
